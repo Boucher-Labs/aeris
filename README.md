@@ -1,5 +1,7 @@
 # AERIS
-Currently, this is just a dump of what I've picked up for my open-ended drone project. I'm not completely sure where I want to go with this project. I'm interested in digging into AM32 and Ardupilot. For now, I want to be able to fly well manually.
+Currently, this is a dump of what I've picked up for my open-ended drone project. I'm not completely sure where I want to go with this project. I'm interested in digging into AM32 and Ardupilot. For now, I want to be able to fly well manually.
+
+I'm using Liftoff simulator ([https://www.liftoff-game.com](https://www.liftoff-game.com)) to practice before flying the real thing. It works well with the Radiomaster Boxer controller via USB. Drone footage coming soon.
 <p align="center">
    <img src="drone.jpg" height="400">
 </p>
